@@ -1,0 +1,1997 @@
+{
+  "regression": [
+    {
+      "Income": 52597,
+      "Spending": 578,
+      "Age": 64,
+      "Kids": 1
+    },
+    {
+      "Income": 34320,
+      "Spending": 17,
+      "Age": 40,
+      "Kids": 1
+    },
+    {
+      "Income": 38578,
+      "Spending": 73,
+      "Age": 54,
+      "Kids": 2
+    },
+    {
+      "Income": 75433,
+      "Spending": 1188,
+      "Age": 37,
+      "Kids": 1
+    },
+    {
+      "Income": 22448,
+      "Spending": 55,
+      "Age": 44,
+      "Kids": 1
+    },
+    {
+      "Income": 84169,
+      "Spending": 1919,
+      "Age": 44,
+      "Kids": 0
+    },
+    {
+      "Income": 75702,
+      "Spending": 1921,
+      "Age": 52,
+      "Kids": 1
+    },
+    {
+      "Income": 64813,
+      "Spending": 745,
+      "Age": 48,
+      "Kids": 1
+    },
+    {
+      "Income": 64587,
+      "Spending": 108,
+      "Age": 72,
+      "Kids": 2
+    },
+    {
+      "Income": 82576,
+      "Spending": 1910,
+      "Age": 67,
+      "Kids": 0
+    },
+    {
+      "Income": 55249,
+      "Spending": 130,
+      "Age": 70,
+      "Kids": 1
+    },
+    {
+      "Income": 31761,
+      "Spending": 98,
+      "Age": 42,
+      "Kids": 1
+    },
+    {
+      "Income": 59892,
+      "Spending": 87,
+      "Age": 56,
+      "Kids": 1
+    },
+    {
+      "Income": 57867,
+      "Spending": 612,
+      "Age": 48,
+      "Kids": 1
+    },
+    {
+      "Income": 35246,
+      "Spending": 62,
+      "Age": 68,
+      "Kids": 2
+    },
+    {
+      "Income": 82504,
+      "Spending": 1066,
+      "Age": 66,
+      "Kids": 0
+    },
+    {
+      "Income": 39922,
+      "Spending": 156,
+      "Age": 43,
+      "Kids": 1
+    },
+    {
+      "Income": 78041,
+      "Spending": 1319,
+      "Age": 55,
+      "Kids": 0
+    },
+    {
+      "Income": 39356,
+      "Spending": 23,
+      "Age": 50,
+      "Kids": 2
+    },
+    {
+      "Income": 74918,
+      "Spending": 2047,
+      "Age": 57,
+      "Kids": 0
+    },
+    {
+      "Income": 42720,
+      "Spending": 654,
+      "Age": 61,
+      "Kids": 2
+    },
+    {
+      "Income": 61180,
+      "Spending": 704,
+      "Age": 67,
+      "Kids": 1
+    },
+    {
+      "Income": 34578,
+      "Spending": 8,
+      "Age": 54,
+      "Kids": 3
+    },
+    {
+      "Income": 37126,
+      "Spending": 72,
+      "Age": 55,
+      "Kids": 1
+    },
+    {
+      "Income": 55239,
+      "Spending": 779,
+      "Age": 55,
+      "Kids": 1
+    },
+    {
+      "Income": 77870,
+      "Spending": 1815,
+      "Age": 59,
+      "Kids": 1
+    },
+    {
+      "Income": 57513,
+      "Spending": 1060,
+      "Age": 83,
+      "Kids": 0
+    },
+    {
+      "Income": 24683,
+      "Spending": 41,
+      "Age": 36,
+      "Kids": 1
+    },
+    {
+      "Income": 81741,
+      "Spending": 1572,
+      "Age": 46,
+      "Kids": 0
+    },
+    {
+      "Income": 82347,
+      "Spending": 1853,
+      "Age": 69,
+      "Kids": 0
+    },
+    {
+      "Income": 30675,
+      "Spending": 62,
+      "Age": 54,
+      "Kids": 1
+    },
+    {
+      "Income": 76542,
+      "Spending": 1483,
+      "Age": 70,
+      "Kids": 0
+    },
+    {
+      "Income": 38887,
+      "Spending": 42,
+      "Age": 54,
+      "Kids": 1
+    },
+    {
+      "Income": 32146,
+      "Spending": 66,
+      "Age": 43,
+      "Kids": 1
+    },
+    {
+      "Income": 24594,
+      "Spending": 29,
+      "Age": 47,
+      "Kids": 1
+    },
+    {
+      "Income": 45579,
+      "Spending": 183,
+      "Age": 78,
+      "Kids": 1
+    },
+    {
+      "Income": 102160,
+      "Spending": 1240,
+      "Age": 49,
+      "Kids": 0
+    },
+    {
+      "Income": 59062,
+      "Spending": 71,
+      "Age": 59,
+      "Kids": 3
+    },
+    {
+      "Income": 68743,
+      "Spending": 2074,
+      "Age": 59,
+      "Kids": 0
+    },
+    {
+      "Income": 74268,
+      "Spending": 892,
+      "Age": 71,
+      "Kids": 0
+    },
+    {
+      "Income": 81217,
+      "Spending": 1157,
+      "Age": 37,
+      "Kids": 0
+    },
+    {
+      "Income": 38620,
+      "Spending": 318,
+      "Age": 63,
+      "Kids": 0
+    },
+    {
+      "Income": 78789,
+      "Spending": 1754,
+      "Age": 46,
+      "Kids": 0
+    },
+    {
+      "Income": 40794,
+      "Spending": 434,
+      "Age": 51,
+      "Kids": 1
+    },
+    {
+      "Income": 47025,
+      "Spending": 635,
+      "Age": 48,
+      "Kids": 1
+    },
+    {
+      "Income": 42315,
+      "Spending": 270,
+      "Age": 68,
+      "Kids": 1
+    },
+    {
+      "Income": 55593,
+      "Spending": 546,
+      "Age": 53,
+      "Kids": 1
+    },
+    {
+      "Income": 34935,
+      "Spending": 137,
+      "Age": 34,
+      "Kids": 0
+    },
+    {
+      "Income": 44159,
+      "Spending": 275,
+      "Age": 56,
+      "Kids": 1
+    },
+    {
+      "Income": 24336,
+      "Spending": 31,
+      "Age": 45,
+      "Kids": 1
+    },
+    {
+      "Income": 70566,
+      "Spending": 757,
+      "Age": 58,
+      "Kids": 1
+    },
+    {
+      "Income": 42554,
+      "Spending": 41,
+      "Age": 48,
+      "Kids": 2
+    },
+    {
+      "Income": 24882,
+      "Spending": 80,
+      "Age": 48,
+      "Kids": 1
+    },
+    {
+      "Income": 68118,
+      "Spending": 928,
+      "Age": 63,
+      "Kids": 1
+    },
+    {
+      "Income": 63810,
+      "Spending": 1371,
+      "Age": 60,
+      "Kids": 1
+    },
+    {
+      "Income": 75127,
+      "Spending": 833,
+      "Age": 74,
+      "Kids": 0
+    },
+    {
+      "Income": 72968,
+      "Spending": 1958,
+      "Age": 63,
+      "Kids": 0
+    },
+    {
+      "Income": 65324,
+      "Spending": 544,
+      "Age": 72,
+      "Kids": 1
+    },
+    {
+      "Income": 30753,
+      "Spending": 81,
+      "Age": 59,
+      "Kids": 2
+    },
+    {
+      "Income": 45576,
+      "Spending": 145,
+      "Age": 81,
+      "Kids": 0
+    },
+    {
+      "Income": 78075,
+      "Spending": 988,
+      "Age": 54,
+      "Kids": 0
+    },
+    {
+      "Income": 15253,
+      "Spending": 29,
+      "Age": 34,
+      "Kids": 1
+    },
+    {
+      "Income": 37717,
+      "Spending": 25,
+      "Age": 48,
+      "Kids": 1
+    },
+    {
+      "Income": 27922,
+      "Spending": 41,
+      "Age": 47,
+      "Kids": 1
+    },
+    {
+      "Income": 75759,
+      "Spending": 2486,
+      "Age": 57,
+      "Kids": 0
+    },
+    {
+      "Income": 60208,
+      "Spending": 656,
+      "Age": 53,
+      "Kids": 2
+    },
+    {
+      "Income": 42670,
+      "Spending": 241,
+      "Age": 34,
+      "Kids": 0
+    },
+    {
+      "Income": 75507,
+      "Spending": 1440,
+      "Age": 47,
+      "Kids": 0
+    },
+    {
+      "Income": 69267,
+      "Spending": 1635,
+      "Age": 73,
+      "Kids": 0
+    },
+    {
+      "Income": 45143,
+      "Spending": 311,
+      "Age": 61,
+      "Kids": 1
+    },
+    {
+      "Income": 160803,
+      "Spending": 1717,
+      "Age": 44,
+      "Kids": 0
+    },
+    {
+      "Income": 55212,
+      "Spending": 1182,
+      "Age": 57,
+      "Kids": 1
+    },
+    {
+      "Income": 18701,
+      "Spending": 44,
+      "Age": 62,
+      "Kids": 2
+    },
+    {
+      "Income": 27215,
+      "Spending": 102,
+      "Age": 65,
+      "Kids": 3
+    },
+    {
+      "Income": 28839,
+      "Spending": 32,
+      "Age": 70,
+      "Kids": 2
+    },
+    {
+      "Income": 48721,
+      "Spending": 293,
+      "Age": 63,
+      "Kids": 2
+    },
+    {
+      "Income": 56129,
+      "Spending": 660,
+      "Age": 73,
+      "Kids": 1
+    },
+    {
+      "Income": 82497,
+      "Spending": 1919,
+      "Age": 46,
+      "Kids": 0
+    },
+    {
+      "Income": 21846,
+      "Spending": 84,
+      "Age": 40,
+      "Kids": 1
+    },
+    {
+      "Income": 61074,
+      "Spending": 1102,
+      "Age": 68,
+      "Kids": 1
+    },
+    {
+      "Income": 80134,
+      "Spending": 1690,
+      "Age": 54,
+      "Kids": 1
+    },
+    {
+      "Income": 71853,
+      "Spending": 1149,
+      "Age": 44,
+      "Kids": 0
+    },
+    {
+      "Income": 157733,
+      "Spending": 59,
+      "Age": 55,
+      "Kids": 1
+    },
+    {
+      "Income": 89058,
+      "Spending": 850,
+      "Age": 66,
+      "Kids": 0
+    },
+    {
+      "Income": 67506,
+      "Spending": 331,
+      "Age": 46,
+      "Kids": 1
+    },
+    {
+      "Income": 40246,
+      "Spending": 13,
+      "Age": 49,
+      "Kids": 1
+    },
+    {
+      "Income": 49505,
+      "Spending": 751,
+      "Age": 55,
+      "Kids": 2
+    },
+    {
+      "Income": 39146,
+      "Spending": 165,
+      "Age": 40,
+      "Kids": 1
+    },
+    {
+      "Income": 59809,
+      "Spending": 877,
+      "Age": 50,
+      "Kids": 2
+    },
+    {
+      "Income": 23162,
+      "Spending": 65,
+      "Age": 56,
+      "Kids": 2
+    },
+    {
+      "Income": 58821,
+      "Spending": 728,
+      "Age": 70,
+      "Kids": 1
+    },
+    {
+      "Income": 7500,
+      "Spending": 36,
+      "Age": 40,
+      "Kids": 1
+    },
+    {
+      "Income": 67546,
+      "Spending": 2126,
+      "Age": 38,
+      "Kids": 0
+    },
+    {
+      "Income": 23295,
+      "Spending": 20,
+      "Age": 67,
+      "Kids": 0
+    },
+    {
+      "Income": 84196,
+      "Spending": 1237,
+      "Age": 51,
+      "Kids": 1
+    },
+    {
+      "Income": 56046,
+      "Spending": 692,
+      "Age": 61,
+      "Kids": 0
+    },
+    {
+      "Income": 49667,
+      "Spending": 1396,
+      "Age": 71,
+      "Kids": 0
+    },
+    {
+      "Income": 70300,
+      "Spending": 1596,
+      "Age": 51,
+      "Kids": 1
+    },
+    {
+      "Income": 30630,
+      "Spending": 52,
+      "Age": 61,
+      "Kids": 2
+    },
+    {
+      "Income": 24027,
+      "Spending": 48,
+      "Age": 50,
+      "Kids": 1
+    },
+    {
+      "Income": 70886,
+      "Spending": 960,
+      "Age": 55,
+      "Kids": 1
+    },
+    {
+      "Income": 67267,
+      "Spending": 251,
+      "Age": 68,
+      "Kids": 1
+    },
+    {
+      "Income": 30279,
+      "Spending": 37,
+      "Age": 37,
+      "Kids": 1
+    },
+    {
+      "Income": 52852,
+      "Spending": 879,
+      "Age": 69,
+      "Kids": 1
+    },
+    {
+      "Income": 70044,
+      "Spending": 1504,
+      "Age": 72,
+      "Kids": 1
+    },
+    {
+      "Income": 30096,
+      "Spending": 45,
+      "Age": 43,
+      "Kids": 1
+    },
+    {
+      "Income": 53700,
+      "Spending": 694,
+      "Age": 74,
+      "Kids": 1
+    },
+    {
+      "Income": 33569,
+      "Spending": 63,
+      "Age": 43,
+      "Kids": 1
+    },
+    {
+      "Income": 79908,
+      "Spending": 1772,
+      "Age": 44,
+      "Kids": 0
+    },
+    {
+      "Income": 15315,
+      "Spending": 64,
+      "Age": 56,
+      "Kids": 0
+    },
+    {
+      "Income": 57530,
+      "Spending": 92,
+      "Age": 75,
+      "Kids": 1
+    },
+    {
+      "Income": 67046,
+      "Spending": 993,
+      "Age": 75,
+      "Kids": 1
+    },
+    {
+      "Income": 73395,
+      "Spending": 397,
+      "Age": 39,
+      "Kids": 0
+    },
+    {
+      "Income": 76005,
+      "Spending": 1722,
+      "Age": 71,
+      "Kids": 0
+    },
+    {
+      "Income": 69263,
+      "Spending": 568,
+      "Age": 61,
+      "Kids": 1
+    },
+    {
+      "Income": 42618,
+      "Spending": 192,
+      "Age": 54,
+      "Kids": 1
+    },
+    {
+      "Income": 33581,
+      "Spending": 17,
+      "Age": 57,
+      "Kids": 2
+    },
+    {
+      "Income": 38946,
+      "Spending": 257,
+      "Age": 71,
+      "Kids": 1
+    },
+    {
+      "Income": 75251,
+      "Spending": 1890,
+      "Age": 54,
+      "Kids": 0
+    },
+    {
+      "Income": 80360,
+      "Spending": 2231,
+      "Age": 77,
+      "Kids": 0
+    },
+    {
+      "Income": 61314,
+      "Spending": 1008,
+      "Age": 58,
+      "Kids": 1
+    },
+    {
+      "Income": 46772,
+      "Spending": 1048,
+      "Age": 51,
+      "Kids": 1
+    },
+    {
+      "Income": 68397,
+      "Spending": 1416,
+      "Age": 50,
+      "Kids": 1
+    },
+    {
+      "Income": 50664,
+      "Spending": 561,
+      "Age": 67,
+      "Kids": 2
+    },
+    {
+      "Income": 31907,
+      "Spending": 449,
+      "Age": 54,
+      "Kids": 0
+    },
+    {
+      "Income": 22634,
+      "Spending": 96,
+      "Age": 60,
+      "Kids": 0
+    },
+    {
+      "Income": 54414,
+      "Spending": 211,
+      "Age": 63,
+      "Kids": 2
+    },
+    {
+      "Income": 70932,
+      "Spending": 909,
+      "Age": 54,
+      "Kids": 1
+    },
+    {
+      "Income": 38578,
+      "Spending": 73,
+      "Age": 54,
+      "Kids": 2
+    },
+    {
+      "Income": 33812,
+      "Spending": 133,
+      "Age": 41,
+      "Kids": 1
+    },
+    {
+      "Income": 35682,
+      "Spending": 57,
+      "Age": 56,
+      "Kids": 1
+    },
+    {
+      "Income": 33444,
+      "Spending": 18,
+      "Age": 74,
+      "Kids": 2
+    },
+    {
+      "Income": 78497,
+      "Spending": 978,
+      "Age": 75,
+      "Kids": 0
+    },
+    {
+      "Income": 48877,
+      "Spending": 144,
+      "Age": 60,
+      "Kids": 1
+    },
+    {
+      "Income": 49572,
+      "Spending": 54,
+      "Age": 68,
+      "Kids": 2
+    },
+    {
+      "Income": 60631,
+      "Spending": 661,
+      "Age": 51,
+      "Kids": 2
+    },
+    {
+      "Income": 13084,
+      "Spending": 29,
+      "Age": 74,
+      "Kids": 0
+    },
+    {
+      "Income": 7500,
+      "Spending": 15,
+      "Age": 39,
+      "Kids": 0
+    },
+    {
+      "Income": 90226,
+      "Spending": 2352,
+      "Age": 70,
+      "Kids": 0
+    },
+    {
+      "Income": 80141,
+      "Spending": 2091,
+      "Age": 40,
+      "Kids": 0
+    },
+    {
+      "Income": 11012,
+      "Spending": 84,
+      "Age": 42,
+      "Kids": 1
+    },
+    {
+      "Income": 40211,
+      "Spending": 87,
+      "Age": 45,
+      "Kids": 2
+    },
+    {
+      "Income": 19986,
+      "Spending": 22,
+      "Age": 41,
+      "Kids": 1
+    },
+    {
+      "Income": 21955,
+      "Spending": 55,
+      "Age": 40,
+      "Kids": 1
+    },
+    {
+      "Income": 87188,
+      "Spending": 1923,
+      "Age": 43,
+      "Kids": 0
+    },
+    {
+      "Income": 45143,
+      "Spending": 311,
+      "Age": 61,
+      "Kids": 1
+    },
+    {
+      "Income": 57957,
+      "Spending": 637,
+      "Age": 67,
+      "Kids": 1
+    },
+    {
+      "Income": 90842,
+      "Spending": 1424,
+      "Age": 78,
+      "Kids": 0
+    },
+    {
+      "Income": 39791,
+      "Spending": 174,
+      "Age": 55,
+      "Kids": 1
+    },
+    {
+      "Income": 69084,
+      "Spending": 1586,
+      "Age": 56,
+      "Kids": 1
+    }
+  ],
+  "clusters": [
+    {
+      "Income": 52597,
+      "Spending": 578,
+      "Age": 64,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 34320,
+      "Spending": 17,
+      "Age": 40,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 38578,
+      "Spending": 73,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 75433,
+      "Spending": 1188,
+      "Age": 37,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 22448,
+      "Spending": 55,
+      "Age": 44,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 84169,
+      "Spending": 1919,
+      "Age": 44,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 75702,
+      "Spending": 1921,
+      "Age": 52,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 64813,
+      "Spending": 745,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 64587,
+      "Spending": 108,
+      "Age": 72,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 82576,
+      "Spending": 1910,
+      "Age": 67,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 55249,
+      "Spending": 130,
+      "Age": 70,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 31761,
+      "Spending": 98,
+      "Age": 42,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 59892,
+      "Spending": 87,
+      "Age": 56,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 57867,
+      "Spending": 612,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 35246,
+      "Spending": 62,
+      "Age": 68,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 82504,
+      "Spending": 1066,
+      "Age": 66,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 39922,
+      "Spending": 156,
+      "Age": 43,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 78041,
+      "Spending": 1319,
+      "Age": 55,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 39356,
+      "Spending": 23,
+      "Age": 50,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 74918,
+      "Spending": 2047,
+      "Age": 57,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 42720,
+      "Spending": 654,
+      "Age": 61,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 61180,
+      "Spending": 704,
+      "Age": 67,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 34578,
+      "Spending": 8,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 37126,
+      "Spending": 72,
+      "Age": 55,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 55239,
+      "Spending": 779,
+      "Age": 55,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 77870,
+      "Spending": 1815,
+      "Age": 59,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 57513,
+      "Spending": 1060,
+      "Age": 83,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 24683,
+      "Spending": 41,
+      "Age": 36,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 81741,
+      "Spending": 1572,
+      "Age": 46,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 82347,
+      "Spending": 1853,
+      "Age": 69,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 30675,
+      "Spending": 62,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 76542,
+      "Spending": 1483,
+      "Age": 70,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 38887,
+      "Spending": 42,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 32146,
+      "Spending": 66,
+      "Age": 43,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 24594,
+      "Spending": 29,
+      "Age": 47,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 45579,
+      "Spending": 183,
+      "Age": 78,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 102160,
+      "Spending": 1240,
+      "Age": 49,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 59062,
+      "Spending": 71,
+      "Age": 59,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 68743,
+      "Spending": 2074,
+      "Age": 59,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 74268,
+      "Spending": 892,
+      "Age": 71,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 81217,
+      "Spending": 1157,
+      "Age": 37,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 38620,
+      "Spending": 318,
+      "Age": 63,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 78789,
+      "Spending": 1754,
+      "Age": 46,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 40794,
+      "Spending": 434,
+      "Age": 51,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 47025,
+      "Spending": 635,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 42315,
+      "Spending": 270,
+      "Age": 68,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 55593,
+      "Spending": 546,
+      "Age": 53,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 34935,
+      "Spending": 137,
+      "Age": 34,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 44159,
+      "Spending": 275,
+      "Age": 56,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 24336,
+      "Spending": 31,
+      "Age": 45,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 70566,
+      "Spending": 757,
+      "Age": 58,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 42554,
+      "Spending": 41,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 24882,
+      "Spending": 80,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 68118,
+      "Spending": 928,
+      "Age": 63,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 63810,
+      "Spending": 1371,
+      "Age": 60,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 75127,
+      "Spending": 833,
+      "Age": 74,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 72968,
+      "Spending": 1958,
+      "Age": 63,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 65324,
+      "Spending": 544,
+      "Age": 72,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 30753,
+      "Spending": 81,
+      "Age": 59,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 45576,
+      "Spending": 145,
+      "Age": 81,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 78075,
+      "Spending": 988,
+      "Age": 54,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 15253,
+      "Spending": 29,
+      "Age": 34,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 37717,
+      "Spending": 25,
+      "Age": 48,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 27922,
+      "Spending": 41,
+      "Age": 47,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 75759,
+      "Spending": 2486,
+      "Age": 57,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 60208,
+      "Spending": 656,
+      "Age": 53,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 42670,
+      "Spending": 241,
+      "Age": 34,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 75507,
+      "Spending": 1440,
+      "Age": 47,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 69267,
+      "Spending": 1635,
+      "Age": 73,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 45143,
+      "Spending": 311,
+      "Age": 61,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 160803,
+      "Spending": 1717,
+      "Age": 44,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 55212,
+      "Spending": 1182,
+      "Age": 57,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 18701,
+      "Spending": 44,
+      "Age": 62,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 27215,
+      "Spending": 102,
+      "Age": 65,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 28839,
+      "Spending": 32,
+      "Age": 70,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 48721,
+      "Spending": 293,
+      "Age": 63,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 56129,
+      "Spending": 660,
+      "Age": 73,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 82497,
+      "Spending": 1919,
+      "Age": 46,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 21846,
+      "Spending": 84,
+      "Age": 40,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 61074,
+      "Spending": 1102,
+      "Age": 68,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 80134,
+      "Spending": 1690,
+      "Age": 54,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 71853,
+      "Spending": 1149,
+      "Age": 44,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 157733,
+      "Spending": 59,
+      "Age": 55,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 89058,
+      "Spending": 850,
+      "Age": 66,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 67506,
+      "Spending": 331,
+      "Age": 46,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 40246,
+      "Spending": 13,
+      "Age": 49,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 49505,
+      "Spending": 751,
+      "Age": 55,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 39146,
+      "Spending": 165,
+      "Age": 40,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 59809,
+      "Spending": 877,
+      "Age": 50,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 23162,
+      "Spending": 65,
+      "Age": 56,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 58821,
+      "Spending": 728,
+      "Age": 70,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 7500,
+      "Spending": 36,
+      "Age": 40,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 67546,
+      "Spending": 2126,
+      "Age": 38,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 23295,
+      "Spending": 20,
+      "Age": 67,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 84196,
+      "Spending": 1237,
+      "Age": 51,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 56046,
+      "Spending": 692,
+      "Age": 61,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 49667,
+      "Spending": 1396,
+      "Age": 71,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 70300,
+      "Spending": 1596,
+      "Age": 51,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 30630,
+      "Spending": 52,
+      "Age": 61,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 24027,
+      "Spending": 48,
+      "Age": 50,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 70886,
+      "Spending": 960,
+      "Age": 55,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 67267,
+      "Spending": 251,
+      "Age": 68,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 30279,
+      "Spending": 37,
+      "Age": 37,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 52852,
+      "Spending": 879,
+      "Age": 69,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 70044,
+      "Spending": 1504,
+      "Age": 72,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 30096,
+      "Spending": 45,
+      "Age": 43,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 53700,
+      "Spending": 694,
+      "Age": 74,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 33569,
+      "Spending": 63,
+      "Age": 43,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 79908,
+      "Spending": 1772,
+      "Age": 44,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 15315,
+      "Spending": 64,
+      "Age": 56,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 57530,
+      "Spending": 92,
+      "Age": 75,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 67046,
+      "Spending": 993,
+      "Age": 75,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 73395,
+      "Spending": 397,
+      "Age": 39,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 76005,
+      "Spending": 1722,
+      "Age": 71,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 69263,
+      "Spending": 568,
+      "Age": 61,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 42618,
+      "Spending": 192,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 33581,
+      "Spending": 17,
+      "Age": 57,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 38946,
+      "Spending": 257,
+      "Age": 71,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 75251,
+      "Spending": 1890,
+      "Age": 54,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 80360,
+      "Spending": 2231,
+      "Age": 77,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 61314,
+      "Spending": 1008,
+      "Age": 58,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 46772,
+      "Spending": 1048,
+      "Age": 51,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 68397,
+      "Spending": 1416,
+      "Age": 50,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 50664,
+      "Spending": 561,
+      "Age": 67,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 31907,
+      "Spending": 449,
+      "Age": 54,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 22634,
+      "Spending": 96,
+      "Age": 60,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 54414,
+      "Spending": 211,
+      "Age": 63,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 70932,
+      "Spending": 909,
+      "Age": 54,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 38578,
+      "Spending": 73,
+      "Age": 54,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 33812,
+      "Spending": 133,
+      "Age": 41,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 35682,
+      "Spending": 57,
+      "Age": 56,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 33444,
+      "Spending": 18,
+      "Age": 74,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 78497,
+      "Spending": 978,
+      "Age": 75,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 48877,
+      "Spending": 144,
+      "Age": 60,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 49572,
+      "Spending": 54,
+      "Age": 68,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 60631,
+      "Spending": 661,
+      "Age": 51,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 13084,
+      "Spending": 29,
+      "Age": 74,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 7500,
+      "Spending": 15,
+      "Age": 39,
+      "Cluster": "Value Shoppers"
+    },
+    {
+      "Income": 90226,
+      "Spending": 2352,
+      "Age": 70,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 80141,
+      "Spending": 2091,
+      "Age": 40,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 11012,
+      "Spending": 84,
+      "Age": 42,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 40211,
+      "Spending": 87,
+      "Age": 45,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 19986,
+      "Spending": 22,
+      "Age": 41,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 21955,
+      "Spending": 55,
+      "Age": 40,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 87188,
+      "Spending": 1923,
+      "Age": 43,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 45143,
+      "Spending": 311,
+      "Age": 61,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 57957,
+      "Spending": 637,
+      "Age": 67,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 90842,
+      "Spending": 1424,
+      "Age": 78,
+      "Cluster": "Elite Buyers"
+    },
+    {
+      "Income": 39791,
+      "Spending": 174,
+      "Age": 55,
+      "Cluster": "Budget Families"
+    },
+    {
+      "Income": 69084,
+      "Spending": 1586,
+      "Age": 56,
+      "Cluster": "Elite Buyers"
+    }
+  ],
+  "radar": [
+    {
+      "persona": "Elite Buyers",
+      "Wines": 845,
+      "Fruits": 66,
+      "Meats": 554,
+      "Fish": 104,
+      "Sweets": 65,
+      "Gold": 71
+    },
+    {
+      "persona": "Budget Families",
+      "Wines": 167,
+      "Fruits": 8,
+      "Meats": 51,
+      "Fish": 16,
+      "Sweets": 12,
+      "Gold": 30
+    },
+    {
+      "persona": "Value Shoppers",
+      "Wines": 278,
+      "Fruits": 33,
+      "Meats": 111,
+      "Fish": 34,
+      "Sweets": 32,
+      "Gold": 58
+    }
+  ],
+  "nosql": [
+    {
+      "_id": "cus_6516",
+      "profile": {
+        "age": 37,
+        "education": "Basic",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 17487,
+        "total_spend": 18,
+        "purchases": {
+          "web": 1,
+          "store": 2
+        }
+      },
+      "metadata": {
+        "recency_days": 37,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_4491",
+      "profile": {
+        "age": 77,
+        "education": "Master",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 62845,
+        "total_spend": 1178,
+        "purchases": {
+          "web": 3,
+          "store": 10
+        }
+      },
+      "metadata": {
+        "recency_days": 3,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_574",
+      "profile": {
+        "age": 62,
+        "education": "Graduation",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 42523,
+        "total_spend": 125,
+        "purchases": {
+          "web": 1,
+          "store": 4
+        }
+      },
+      "metadata": {
+        "recency_days": 96,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_1077",
+      "profile": {
+        "age": 52,
+        "education": "Graduation",
+        "marital": "Together"
+      },
+      "financials": {
+        "annual_income": 56715,
+        "total_spend": 1020,
+        "purchases": {
+          "web": 7,
+          "store": 4
+        }
+      },
+      "metadata": {
+        "recency_days": 52,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_524",
+      "profile": {
+        "age": 60,
+        "education": "Basic",
+        "marital": "Together"
+      },
+      "financials": {
+        "annual_income": 22634,
+        "total_spend": 96,
+        "purchases": {
+          "web": 2,
+          "store": 2
+        }
+      },
+      "metadata": {
+        "recency_days": 47,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_1402",
+      "profile": {
+        "age": 72,
+        "education": "Master",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 66991,
+        "total_spend": 1253,
+        "purchases": {
+          "web": 4,
+          "store": 6
+        }
+      },
+      "metadata": {
+        "recency_days": 1,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_10319",
+      "profile": {
+        "age": 55,
+        "education": "Graduation",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 66303,
+        "total_spend": 1286,
+        "purchases": {
+          "web": 3,
+          "store": 11
+        }
+      },
+      "metadata": {
+        "recency_days": 56,
+        "complaints": 0
+      }
+    },
+    {
+      "_id": "cus_8026",
+      "profile": {
+        "age": 74,
+        "education": "Graduation",
+        "marital": "Married"
+      },
+      "financials": {
+        "annual_income": 62998,
+        "total_spend": 463,
+        "purchases": {
+          "web": 5,
+          "store": 5
+        }
+      },
+      "metadata": {
+        "recency_days": 10,
+        "complaints": 0
+      }
+    }
+  ]
+}
