@@ -1,7 +1,10 @@
+import { useState } from 'react';
+import Plot from 'react-plotly.js';
+import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import { motion, AnimatePresence } from 'framer-motion';
 import data from '../data.json';
 import InsightCard from '../components/InsightCard';
-import { Maximize2, Minimize2, X } from 'lucide-react';
+import { Maximize2, X } from 'lucide-react';
 
 export default function DataScienceSimulator() {
   const [isFullScreen, setIsFullScreen] = useState(false);
