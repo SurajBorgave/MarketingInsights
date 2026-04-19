@@ -1,13 +1,10 @@
-import { Target, TrendingUp, BarChart3 } from 'lucide-react';
+import { Target, TrendingUp, Cpu } from 'lucide-react';
 import { motion } from 'framer-motion';
 import InsightCard from '../components/InsightCard';
 
 const containerVariants = {
   hidden: { opacity: 0 },
-  visible: {
-    opacity: 1,
-    transition: { staggerChildren: 0.15 }
-  }
+  visible: { opacity: 1, transition: { staggerChildren: 0.15 } }
 };
 
 const itemVariants = {
@@ -17,56 +14,39 @@ const itemVariants = {
 
 export default function Home() {
   return (
-    <motion.div 
-      className="page-container"
-      variants={containerVariants}
-      initial="hidden"
-      animate="visible"
-    >
+    <motion.div className="page-container" variants={containerVariants} initial="hidden" animate="visible">
       <motion.div className="page-header" variants={itemVariants}>
-        <h1>Marketing Intelligence Hub</h1>
-        <p>Strategic analysis of 2,240 customers to optimize Marketing ROI and Revenue Forecasting.</p>
+        <h1>Predictive Analytics Engine</h1>
+        <p>A Data Science Application focusing on Machine Learning and Behavioral Classification.</p>
       </motion.div>
 
       <motion.div style={{ marginBottom: '40px' }} variants={itemVariants}>
         <InsightCard 
-          subtitle="Executive Summary"
-          title="The Core Objective"
-          content="How do we transform raw customer data into profit? This project analyzes demographics, spending habits, and campaign historical responses to build models that predict future behavior. Our objective is to reduce marketing waste by precisely targeting high-potential leads while maintaining a scalable, modern database architecture."
-          color="var(--purple)"
+          subtitle="Data Science Subject Objective"
+          title="Develop a Predictive Analytics Application"
+          content="This project serves as a comprehensive Data Science integration application. Leveraging a robust dataset of 2,240 records, we utilize advanced Machine Learning techniques—specifically linking non-linear Polynomial Regression (for continuous expenditure forecasting) perfectly with Unsupervised K-Means clustering (for rigid categorical classification)—into one concurrent Predictive Analytics Engine."
+          color="var(--cyan)"
         />
       </motion.div>
 
       <motion.div className="grid-3" variants={itemVariants}>
         <div className="glass-panel" style={{ borderBottom: '4px solid var(--cyan)' }}>
           <TrendingUp size={32} color="var(--cyan)" style={{ marginBottom: '16px' }} />
-          <h3>Revenue Prediction</h3>
-          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Moving beyond reactive reporting to proactive forecasting using supervised regression modeling.</p>
+          <h3>Regression Intelligence</h3>
+          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Multivariate predictive modeling yielding ~81% accuracy on total financial expenditure.</p>
         </div>
         
         <div className="glass-panel" style={{ borderBottom: '4px solid var(--purple)' }}>
           <Target size={32} color="var(--purple)" style={{ marginBottom: '16px' }} />
-          <h3>Market Personas</h3>
-          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Mapping hidden traits to identify distinct spending groups for hyper-personalized campaigns.</p>
+          <h3>K-Means Algorithms</h3>
+          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Spatial partitioning identifying unique purchasing clusters disguised within raw multidimensional data.</p>
         </div>
         
         <div className="glass-panel" style={{ borderBottom: '4px solid #00ff66' }}>
-          <BarChart3 size={32} color="#00ff66" style={{ marginBottom: '16px' }} />
-          <h3>Agile Infrastructure</h3>
-          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Leveraging modern NoSQL storage to handle complex, evolving customer datasets with zero downtime.</p>
+          <Cpu size={32} color="#00ff66" style={{ marginBottom: '16px' }} />
+          <h3>Concurrent Prediction</h3>
+          <p style={{ color: 'var(--text-muted)', marginTop: '8px', fontSize: '0.9rem' }}>Both models execute in tandem, evaluating dynamic parameters to output comprehensive behavioral profiles.</p>
         </div>
-      </motion.div>
-      
-      <motion.div className="glass-panel" style={{ marginTop: '24px' }} variants={itemVariants}>
-        <h2>Strategic Impact Statement</h2>
-        <div style={{ marginTop: '16px', display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
-          <span className="badge cyan">MODEL ACCURACY: 81.5%</span>
-          <span className="badge purple">CUSTOMER SEGMENTS: 4 KEY PERSONAS</span>
-          <span className="badge cyan">ARCHITECTURE: MONGODB AGGREGATION</span>
-        </div>
-        <p style={{ marginTop: '20px', lineHeight: '1.7', color: 'var(--text-muted)' }}>
-          Data Science is not about charts—it's about decisions. By the end of our analysis (Assignments 8-10), we've proven that customer income and family structure can predict spending with 81% reliability, and that clustering customers into distinct personas allows for a fundamental shift from generic 'one-size-fits-all' marketing to high-precision strategic targeting.
-        </p>
       </motion.div>
     </motion.div>
   );

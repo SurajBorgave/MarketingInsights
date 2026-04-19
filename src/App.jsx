@@ -1,9 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Home from './pages/Home';
-import Regression from './pages/Regression';
-import Clustering from './pages/Clustering';
-import MongoDB from './pages/MongoDB';
+import DataScienceSimulator from './pages/DataScienceSimulator';
 
 function App() {
   return (
@@ -12,9 +10,7 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/regression" element={<Regression />} />
-          <Route path="/clustering" element={<Clustering />} />
-          <Route path="/mongodb" element={<MongoDB />} />
+          <Route path="/simulator" element={<DataScienceSimulator />} />
         </Routes>
       </main>
     </div>
