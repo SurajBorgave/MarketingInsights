@@ -1,11 +1,10 @@
-import { useState } from 'react';
-import Plot from 'react-plotly.js';
-import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import { motion, AnimatePresence } from 'framer-motion';
 import data from '../data.json';
 import InsightCard from '../components/InsightCard';
+import { Maximize2, Minimize2, X } from 'lucide-react';
 
 export default function DataScienceSimulator() {
+  const [isFullScreen, setIsFullScreen] = useState(false);
   const [income, setIncome] = useState(65000);
   const [age, setAge] = useState(35);
   const [kids, setKids] = useState(1);
@@ -151,14 +150,23 @@ export default function DataScienceSimulator() {
             </div>
           </div>
 
-          <div className="glass-panel" style={{ height: '350px', display: 'flex', flexDirection: 'column' }}>
-            <h3 style={{ marginBottom: '16px' }}>4. 3D Spatial Validation </h3>
+          <div className="glass-panel" style={{ height: '350px', display: 'flex', flexDirection: 'column', position: 'relative' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
+              <h3 style={{ margin: 0 }}>4. 3D Spatial Validation </h3>
+              <button 
+                onClick={() => setIsFullScreen(true)}
+                style={{ background: 'none', border: 'none', color: 'var(--cyan)', cursor: 'pointer', padding: '4px' }}
+                title="Full Screen"
+              >
+                <Maximize2 size={20} />
+              </button>
+            </div>
             <div style={{ flex: 1, borderRadius: '12px', overflow: 'hidden' }}>
               <Plot
                 data={plotData}
                 layout={{ 
                   autosize: true, 
-                  scene: { xaxis: { title: 'Inc.' }, yaxis: { title: 'Spnd' }, zaxis: { title: 'Age' }, bgcolor: 'rgba(0,0,0,0)'},
+                  scene: { xaxis: { title: 'Income' }, yaxis: { title: 'Spend' }, zaxis: { title: 'Age' }, bgcolor: 'rgba(0,0,0,0)'},
                   paper_bgcolor: 'rgba(0,0,0,0)', plot_bgcolor: 'rgba(0,0,0,0)',
                   margin: { l: 0, r: 0, b: 0, t: 20 },
                   legend: { font: { color: '#fff' } }
@@ -172,6 +180,76 @@ export default function DataScienceSimulator() {
 
         </div>
       </div>
+
+      {/* FULL SCREEN OVERLAY */}
+      <AnimatePresence>
+        {isFullScreen && (
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            style={{
+              position: 'fixed',
+              top: 0,
+              left: 0,
+              width: '100vw',
+              height: '100vh',
+              background: 'rgba(5, 5, 10, 0.95)',
+              zIndex: 9999,
+              display: 'flex',
+              flexDirection: 'column',
+              padding: '40px'
+            }}
+          >
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px' }}>
+              <div>
+                <h2 style={{ color: '#fff', margin: 0 }}>Advanced Cluster Mapping</h2>
+                <p style={{ color: 'var(--text-muted)', margin: 0 }}>Interactive 3D Validation Landscape</p>
+              </div>
+              <button 
+                onClick={() => setIsFullScreen(false)}
+                style={{
+                  background: 'rgba(255,255,255,0.05)',
+                  border: '1px solid rgba(255,255,255,0.1)',
+                  color: '#fff',
+                  borderRadius: '50%',
+                  width: '48px',
+                  height: '48px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  cursor: 'pointer'
+                }}
+              >
+                <X size={24} />
+              </button>
+            </div>
+            
+            <div style={{ flex: 1, position: 'relative', borderRadius: '24px', overflow: 'hidden', border: '1px solid rgba(0, 243, 255, 0.2)' }}>
+              <Plot
+                data={plotData}
+                layout={{ 
+                  autosize: true, 
+                  scene: { 
+                    xaxis: { title: 'Income ($)', gridcolor: '#333' }, 
+                    yaxis: { title: 'Total Spend ($)', gridcolor: '#333' }, 
+                    zaxis: { title: 'Age (Years)', gridcolor: '#333' },
+                    bgcolor: 'rgba(0,0,0,0)',
+                    camera: { eye: { x: 1.5, y: 1.5, z: 1.5 } }
+                  },
+                  paper_bgcolor: 'rgba(0,0,0,0)',
+                  plot_bgcolor: 'rgba(0,0,0,0)',
+                  margin: { l: 0, r: 0, b: 0, t: 0 },
+                  legend: { font: { color: '#fff', size: 14 }, orientation: 'h', y: -0.1 }
+                }}
+                useResizeHandler={true}
+                style={{ width: '100%', height: '100%' }}
+                config={{ responsive: true, displayModeBar: true }}
+              />
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </motion.div>
   );
 }
